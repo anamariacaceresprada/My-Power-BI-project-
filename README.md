@@ -48,6 +48,8 @@ Created a variety of visualisations to communicate insights effectively:
 
 These visualisations help convert raw data into **clear and actionable insights**.
 
+<img width="572" height="317" alt="image" src="https://github.com/user-attachments/assets/5596e733-ac39-4210-b693-81ab47cb4423" />
+
 ---
 
 ## Data Storytelling

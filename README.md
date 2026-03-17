@@ -48,7 +48,9 @@ Created a variety of visualisations to communicate insights effectively:
 
 These visualisations help convert raw data into **clear and actionable insights**.
 
-<img width="572" height="317" alt="image" src="https://github.com/user-attachments/assets/5596e733-ac39-4210-b693-81ab47cb4423" />
+[Link to my dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2RkMzM3M2ItZDhlMi00OTU3LWI0YmUtM2RlYzVhZDI2YjQyIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<img width="525" height="308" alt="image" src="https://github.com/user-attachments/assets/3265fef3-9bbc-4742-a7dd-8fcb16896f39" />
 
 ---
 
@@ -75,3 +77,4 @@ The reports were designed to:
 This project was developed during a **Data Technician Bootcamp**, where Power BI was used to build practical skills in **data preparation, business intelligence reporting, and interactive dashboard creation**. :contentReference[oaicite:0]{index=0}
 
 ---
+
